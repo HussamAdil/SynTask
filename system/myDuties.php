@@ -21,11 +21,11 @@
             </div>
             </div>
             <div>
-                <div class="col-md-2 col-sm-2">Note:</div>
+                <div class="note col-md-2 col-sm-2"><span class="label label-default">Note:</span></div>
                 <div class="col-md-10 col-ms-10">This task should be delivered with 24 hours to my mail</div>
             </div>
         </div>
-        <div class="download btn btn-default btn-primary col-md-2 col-sm-2">Download</div>  
+        <div class="download btn btn-default btn-primary col-md-2 col-sm-2">Download file</div>  
   </div><!--End duties Container -->
     <div class="duty panel panel-default col-md-12 col-sm-12"><!--Start duties Container -->
         <div class="taskInfo col-md-10 col-sm-10">
@@ -41,7 +41,7 @@
                 <div class="col-md-10 col-ms-10">This task should be delivered with 24 hours to my mail</div>
             </div>
         </div>
-        <div class="download btn btn-default btn-primary col-md-2 col-sm-2">Download</div>  
+        <div class="download btn btn-default btn-primary col-md-2 col-sm-2">Download file</div>  
   </div><!--End duties Container -->
     <div class="duty panel panel-default col-md-12 col-sm-12"><!--Start duties Container -->
         <div class="taskInfo col-md-10 col-sm-10">
@@ -57,7 +57,7 @@
                 <div class="col-md-10 col-ms-10">This task should be delivered with 24 hours to my mail</div>
             </div>
         </div>
-        <div class="download btn btn-default btn-primary col-md-2 col-sm-2">Download</div>  
+        <div class="download btn btn-default btn-primary col-md-2 col-sm-2">Download file</div>  
   </div><!--End duties Container -->
   
   </div>
