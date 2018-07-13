@@ -10,7 +10,7 @@ include("navbar.php");
 		<div class="col-sm-6">	
 			<div class="panel panel-default">
 		  <!-- Default panel contents -->
-		  <div class="panel-heading" style="background: #211869;color: #fff;">
+		  <div class="panel-heading" style="background: #C53762;color: #fff;">
 		  	<h3><i class="fa fa-tag"></i> News  </h3>
 		  </div>
 		  <!-- List group -->
@@ -28,7 +28,7 @@ include("navbar.php");
 			<div class="col-sm-6">	
 			<div class="panel panel-default">
 		  <!-- Default panel contents -->
-		  <div class="panel-heading" style="background: #554776;color: #fff;">
+		  <div class="panel-heading" style="background: #80146B;color: #fff;">
 		  	<h3><i class="fa fa-fire"></i> Annoucement  </h3>
 		  </div>
 		  <!-- List group -->
@@ -46,8 +46,8 @@ include("navbar.php");
 			<div class="col-sm-6">	
 			<div class="panel panel-default" >
 		  <!-- Default panel contents -->
-		  <div class="panel-heading" style="background: #9A7CF8;color: #fff;">
-		  	<h3><i class="fa fa-fire"></i> Annoucement  </h3>
+		  <div class="panel-heading" style="background: #00418F;color: #fff;">
+		  	<h3><i class="fa fa-tasks"></i> Duties  </h3>
 		  </div>
 		  <!-- List group -->
 		  <ul class="list-group">
@@ -57,6 +57,10 @@ include("navbar.php");
 
 		   <a href="#"> <li class="list-group-item">Cras justo odio</li></a>
 		</ul>
+			<button class="btn btn-danger" style="    color: #fff;
+    background-color: #00418f;
+    border-color: #00418f;
+    margin: 10px;">More</button>
 		</div>
 	</div>
 
@@ -67,7 +71,7 @@ include("navbar.php");
 			<div class="panel panel-default">
 		  <!-- Default panel contents -->	
 		  <div class="panel-heading"  style="background: #4C3A91;color: #fff;">
-		  	<h3><i class="fa fa-fire"></i> Annoucement  </h3>
+		  	<h3><i class="fa fa-book"></i> Lessons </h3>
 		  </div>
 		  <!-- List group -->
 		  <ul class="list-group">
