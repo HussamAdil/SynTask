@@ -19,3 +19,34 @@
 
 
 /*End MyDuties Style*/
+
+
+
+/* Start Home page style  */
+
+a:hover
+{
+	background-color: #1d289e;
+	color:#fff;
+}
+
+.container .News .fa 
+{
+     color: #fff;
+    padding: 3px;
+    border-radius: 15px;
+}
+
+
+a {text-decoration: none;}
+a:hover{text-decoration: none;}
+}
+  .News
+ {
+	background:#1d289e;
+    padding: 3px;
+    color:#fff;
+ }
+
+
+ /* End Home page style  */

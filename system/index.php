@@ -21,6 +21,14 @@ include("navbar.php");
 
 		   <a href="#"> <li class="list-group-item">Cras justo odio</li></a>
 		</ul>
+			<div class="text-center">
+				<a class="btn btn-default " href="#" style=" color: #fff;
+			     color: #000;
+			    margin: 10px;">
+			More</a>
+    	</div>
+
+
 		</div>
 	</div>
 
@@ -39,6 +47,13 @@ include("navbar.php");
 
 		   <a href="#"> <li class="list-group-item">Cras justo odio</li></a>
 		</ul>
+ 
+ 				<div class="text-center">
+				<a class="btn btn-default " href="#" style=" color: #fff;
+			     color: #000;
+			    	margin: 10px;">
+				More</a>
+    		</div>
 		</div>
 	</div>
 
@@ -57,10 +72,13 @@ include("navbar.php");
 
 		   <a href="#"> <li class="list-group-item">Cras justo odio</li></a>
 		</ul>
-			<button class="btn btn-danger" style="    color: #fff;
-    background-color: #00418f;
-    border-color: #00418f;
-    margin: 10px;">More</button>
+				<div class="text-center">
+					<a class="btn btn-default " href="#" style=" color: #fff;
+				     color: #000;
+				    margin: 10px;">
+				More</a>
+	    	</div>
+
 		</div>
 	</div>
 
@@ -81,6 +99,12 @@ include("navbar.php");
 
 		   <a href="#"> <li class="list-group-item">Cras justo odio</li></a>
 		</ul>
+			<div class="text-center">
+				<a class="btn btn-default " href="#" style=" color: #fff;
+			     color: #000;
+			    margin: 10px;">
+			More</a>
+    	</div>
 		</div>
 	</div>
 

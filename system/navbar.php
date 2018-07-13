@@ -4,6 +4,7 @@
 	<title></title>
 	<link rel="stylesheet" type="text/css" href="css/app.css">
   <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 <nav class="navbar navbar-default">
@@ -33,6 +34,11 @@
          <p> <i style="margin-top: 8px;
          font-size: 23px;color:#1d289e;
 "      class="fa fa-bell-o" ></i></p>
+        </li>
+           <li>
+             <p> <i style="margin-top: 8px;
+             font-size: 23px;color:#1d289e;
+    "      class="fa fa-fire" ></i></p>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hussam Adil <span class="caret"></span></a>
