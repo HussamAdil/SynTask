@@ -26,12 +26,14 @@ colors :
 	color:red;
 }
 
-.fa 
+.container .fa 
 {
-     color: #3a289e;
+     color: #fff;
     padding: 3px;
     border-radius: 15px;
 }
+
+
 a {text-decoration: none;}
 a:hover{text-decoration: none;}
 }
