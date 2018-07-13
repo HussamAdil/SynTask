@@ -20,14 +20,22 @@ colors :
 	background-color: #1d289e;
 	color:#fff;
 }
+
+.panel>.list-group:last-child:hover
+{
+	color:red;
+}
+
 .fa 
 {
-	background:#1d289e;;
-	color:#fff;
-	padding:3px;
-	    border-radius: 15px;
+     color: #3a289e;
+    padding: 3px;
+    border-radius: 15px;
 }
- .News
+a {text-decoration: none;}
+a:hover{text-decoration: none;}
+}
+  .News
  {
 	background:#1d289e;
     padding: 3px;
