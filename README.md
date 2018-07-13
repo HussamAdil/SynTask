@@ -1,3 +1,2 @@
 # SynTask
-EEESE
-Add more file 
+EEESE Hackathon
