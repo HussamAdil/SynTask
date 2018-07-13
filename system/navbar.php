@@ -31,17 +31,16 @@
       <ul class="nav navbar-nav navbar-right">
         <li>
          <p> <i style="margin-top: 8px;
-         font-size: 23px;
+         font-size: 23px;color:#1d289e;
 "      class="fa fa-bell-o" ></i></p>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Hussam Adil <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
+            <li><a href="#"><i style="color:#1d289e" class="fa fa-pencil"></i> Edit profile</a></li>
+            <li><a href="#"> <i style="color:#1d289e" class="fa fa-sign-out "></i>Logout</a></li>
+            <li><a href="#"></a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
           </ul>
         </li>
       </ul>
