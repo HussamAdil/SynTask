@@ -37,6 +37,10 @@ colors :
     color: #fff;
     background-color: #1d289e;
 }
+.navbar-default
+{
+	border:none;
+}
 
 .container .News .fa 
 {
@@ -48,7 +52,7 @@ colors :
 
 a {text-decoration: none;}
 a:hover{text-decoration: none;}
-}
+
   .News
  {
 	background:#1d289e;
