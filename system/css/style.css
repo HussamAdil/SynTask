@@ -1,3 +1,12 @@
+/*
+colors :
+			#FBF8FF
+
+			#1B1464
+
+*/
+
+
 /*Start MyDuties Style*/
 
 .container-fluid .row .duty {
@@ -23,11 +32,10 @@
 
 
 /* Start Home page style  */
-
-a:hover
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
 {
-	background-color: #1d289e;
-	color:#fff;
+    color: #fff;
+    background-color: #1d289e;
 }
 
 .container .News .fa 
