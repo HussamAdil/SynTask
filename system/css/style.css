@@ -1,0 +1,9 @@
+/*news and annuonc style*/
+ #NA .h2, #NA h2 {
+    font-size: 31px;
+    text-align: center;
+}
+#NA p {
+    margin: 0 0 11px;
+    text-align: center;
+}
