@@ -2,10 +2,15 @@
 
 The Project Cover The Three Challenges
 
-# 1-  Transcript Certificate and Events.
-# 2. Student Discussion Platform.
-# 3. University Smart Borad (News & Announcements).
+1- Transcript Certificate and Events.
+2. Student Discussion Platform.
+3. University Smart Borad (News & Announcements).
 
+# Project Feature
+- mixing between modren design and official
+- Easy to use (Most trend UX)
+- Resposive design and mobile Compatible
+-
 # Technologies and Tools
 -- DESIGN
 - HTML5/CSS3
@@ -15,7 +20,7 @@ The Project Cover The Three Challenges
 
 -- BACK-END
 - PHP7/Laravael 5.5
-- MySQL
+- MySQL 5
 - Apache2
 
 # How to Install
