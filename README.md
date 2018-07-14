@@ -2,9 +2,9 @@
 
 The Project Cover The Three Challenges
 
-1. # Transcript Certificate and Events.
-2. # Student Discussion Platform.
-3. # University Smart Borad (News & Announcements).
+# 1-  Transcript Certificate and Events.
+# 2. Student Discussion Platform.
+# 3. University Smart Borad (News & Announcements).
 
 # Technologies and Tools
 -- DESIGN
@@ -22,12 +22,15 @@ The Project Cover The Three Challenges
 
 Note* Requried suitable enviroment to run Laravel 5.5 and composer installed
 
--- Step 1
+- Step 1
+
 clone https://github.com/HussamAdil/SynTask.git
 
--- Step 2 
+- Step 2 
+
 cd path/to/SynTask
 composer install
 
--- Step 3
+- Step 3
+
 php artisan serve --port=[PORT-NUMBER] --host=[HOST-IP]
