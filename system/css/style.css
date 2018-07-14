@@ -1,3 +1,23 @@
+<<<<<<< HEAD
+/*news and annuonc style*/
+ #NA .h2, #NA h2 {
+    font-size: 31px;
+    text-align: center;
+}
+#NA p {
+    margin: 0 0 11px;
+    text-align: center;
+}
+=======
+/*
+colors :
+			#FBF8FF
+
+			#1B1464
+
+*/
+
+
 /*Start MyDuties Style*/
 
 .container-fluid .row .duty {
@@ -24,3 +44,38 @@
 
 
 /*End MyDuties Style*/
+
+
+
+/* Start Home page style  */
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
+    color: #fff;
+    background-color: #1d289e;
+}
+.navbar-default
+{
+	border:none;
+}
+
+.container .News .fa 
+{
+     color: #fff;
+    padding: 3px;
+    border-radius: 15px;
+}
+
+
+a {text-decoration: none;}
+a:hover{text-decoration: none;}
+
+  .News
+ {
+	background:#1d289e;
+    padding: 3px;
+    color:#fff;
+ }
+
+
+ /* End Home page style  */
+>>>>>>> c692df5116df82e794559c032190deb0c8a64ac9
