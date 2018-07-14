@@ -32,7 +32,7 @@
         <li class="active"><a href="#">Home <span class="sr-only">(current)</span></a></li>
               <li><a href="#">Lesson</a></li>
          <li><a href="#">duties</a></li>
-        <li><a href="#">annons</a></li>
+        <li><a href="#">Smart Board</a></li>
  
       </ul>
     </div><!-- /.navbar-collapse -->
@@ -101,8 +101,18 @@
 </div>
 <div class="connect">
 	<div class="container">
-		<div class="">
-			<p>Connect </p>
+		<div class="col-sm-5 col-sm-offset-1">
+			<p class="pull-right btn btn-warning" style="color: #423a3a;
+    background-color: #f9c004;
+    border-color: #eab300;
+}">Smart Board </p>
+		</div>
+		<div class="col-sm-6 ">
+			<p class="text-center btn btn-success" style="color: #423a3a;
+    background-color: #271bc1;
+    border-color: #271bc1;
+    color:#fff;
+}">Discussion Platform </p>
 		</div>
 	</div>
 	</div>
