@@ -27,9 +27,14 @@ colors :
 }
 
 .container-fluid .row .duty .download {
-    margin-top: 10px;
-    padding: 10px 0px;
+    margin-top: 11px;
+    padding: 2px 0px;
     text-transform: capitalize;
+}
+
+.container-fluid .row .duty .download .dIcon {
+    margin-top: 8px;
+    font-weight: bolder;
 }
 
 .container-fluid .row .duty .taskInfo div .note span {
