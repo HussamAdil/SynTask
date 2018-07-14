@@ -1,19 +1,4 @@
-/*news and annuonc style*/
-
-#NA .h2,
-#NA h2 {
-    font-size: 31px;
-    text-align: center;
-}
-
-#NA p {
-    margin: 0 0 11px;
-    text-align: center;
-}
-
-
 /*
-
 colors :
 			#FBF8FF
 
@@ -22,27 +7,32 @@ colors :
 */
 
 
-/*Start MyDuties Style*/
+/* Global  */
 
-.container-fluid .row .duty {
-    margin-top: 2px;
-    margin-bottom: 2px;
-    padding-bottom: 4px;
-    font-family: cursive;
+body {
+    background: #EEE;
 }
 
-.container-fluid .row .duty .download {
-    margin-top: 11px;
-    padding: 2px 0px;
+/*   ./Global   */
+
+
+
+/*Start MyDuties Style*/
+
+#DL .row .duty {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+#DL .row .duty .download {
+    margin-top: 10px;
+    padding: 10px 0px;
     text-transform: capitalize;
 }
 
-.container-fluid .row .duty .download .dIcon {
-    margin-top: 8px;
-    font-weight: bolder;
-}
 
-.container-fluid .row .duty .taskInfo div .note span {
+#DL .row .duty .taskInfo div .note span {
     padding: 4px 11px;
 }
 
@@ -50,67 +40,55 @@ colors :
 /*End MyDuties Style*/
 
 
-/* Start Home page style  */
-.navbar
-{
-    margin-bottom: 0
-}
 
-.navbar-default .navbar-nav>.active>a,
-.navbar-default .navbar-nav>.active>a:focus,
-.navbar-default .navbar-nav>.active>a:hover {
+/* Start Home page style  */
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover
+{
     color: #fff;
     background-color: #1d289e;
 }
-
-.navbar-default {
-    border: none;
+.navbar-default
+{
+    border:none;
 }
 
-.container .News .fa {
+.container .News .fa
+{
     color: #fff;
     padding: 3px;
     border-radius: 15px;
 }
 
-a {
-    text-decoration: none;
-}
 
-a:hover {
-    text-decoration: none;
-}
+a {text-decoration: none;}
+a:hover{text-decoration: none;}
 
-.News {
-    background: #1d289e;
+.News
+{
+    background:#1d289e;
     padding: 3px;
-    color: #fff;
+    color:#fff;
 }
 
 
 /* End Home page style  */
 
-
-/* start cer page style  */
-h4{
-	font-size: 40px;
+/*news and annuonc style*/
+#NA .h2, #NA h2 {
+    font-size: 31px;
+    text-align: center;
 }
-.card-content{
-	text-align: center;
-	margin-top:180px;
-}
-.glyphicon {
-	font-size: 100px;
-}
-.fa{
-font-size: 200px;
+#NA p {
+    margin: 0 0 11px;
+    text-align: center;
 }
 
-/* start landing lesson page */
+/*    ./news      */
+
 .header-landing
 
 {
-/*background-image: linear-gradient(to bottom, #1422c2, #111dbd, #0f17b8, #0c10b3, #0808ae);*/
+    /*background-image: linear-gradient(to bottom, #1422c2, #111dbd, #0f17b8, #0c10b3, #0808ae);*/
     color:#1d289e;
     min-height: 250px;
 }
@@ -132,17 +110,17 @@ font-size: 200px;
 
 .mobile-session a
 {
-    
+
     color: #fff;
     padding: 5px 8px;
     border:1px solid #fff;
 }.mobile-session a:hover
-{
-    background: #fff;
-    color: #1d289e;
-    padding: 5px 8px;
-    border:1px solid #fff;
-}
+ {
+     background: #fff;
+     color: #1d289e;
+     padding: 5px 8px;
+     border:1px solid #fff;
+ }
 
 .mobile-circle
 {
@@ -164,14 +142,14 @@ font-size: 200px;
     border-radius: 0;
 }
 .stat{margin-top: 40px}
-.stat h3 
+.stat h3
 {
     margin-bottom: 40px
 }
 .stat >div
 {
-min-height:150px;
-height: 150px;
+    min-height:150px;
+    height: 150px;
 }
 
 .icon-stata
@@ -197,3 +175,5 @@ height: 150px;
 
     margin-bottom:140px;
 }
+
+/*** ./Landing  ****/
