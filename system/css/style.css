@@ -105,6 +105,25 @@ a:hover {
 
 
 /* start cer page style  */
+<<<<<<< HEAD
+=======
+h4{
+	font-size: 40px;
+}
+.card-content{
+	text-align: center;
+	margin-top:180px;
+}
+.glyphicon {
+	font-size: 100px;
+}
+.fa{
+font-size: 200px;
+}
+
+/* start landing lesson page */
+.header-landing
+>>>>>>> 433e6e1bc5611103acfc73e481da043ec1558114
 
 h4 {
     font-size: 40px;
@@ -119,6 +138,76 @@ h4 {
     font-size: 100px;
 }
 
+<<<<<<< HEAD
 .fa {
     font-size: 200px;
 }
+=======
+.mobile-session a
+{
+    
+    color: #fff;
+    padding: 5px 8px;
+    border:1px solid #fff;
+}.mobile-session a:hover
+{
+    background: #fff;
+    color: #1d289e;
+    padding: 5px 8px;
+    border:1px solid #fff;
+}
+
+.mobile-circle
+{
+    background: #f1ba08;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top:20px;
+}
+
+.download-btn
+{
+    color: #1d289e;
+    background-color: #ffffff;
+    border-color: #f1ba08;
+    font-size: 17px;
+    border-radius: 0;
+}
+.stat{margin-top: 40px}
+.stat h3 
+{
+    margin-bottom: 40px
+}
+.stat >div
+{
+min-height:150px;
+height: 150px;
+}
+
+.icon-stata
+{
+    background:#1d289e;
+    width:50px;
+    margin:0 auto;
+    text-align:center;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    color:#fff;
+    font-size: 25px
+}
+.stat p
+{
+    color:#444;
+    font-size: 20px;
+}
+.connect
+{
+    margin-top:40px;
+
+    margin-bottom:140px;
+}
+>>>>>>> 433e6e1bc5611103acfc73e481da043ec1558114
