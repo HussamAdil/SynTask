@@ -89,9 +89,10 @@
     padding: 10px;
     border-radius: 20px;
 ">
-			Project is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.
+			Project is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers.,<br>
+					<a href="#">Start Learn Now !</a>
+
 		</p>
-		<a href="#">Start Learn Now !</a>
 	</div>
 	<div class="col-sm-6 ">
 	<img width="550px" height="450px"  src="img/team.png">
